@@ -19,4 +19,4 @@ Se han creado en su mayoría desde cero para enfocarse en la práctica de concep
 
 ## Contribuir
 
-Las contribuciones y mejoras a los ejercicios son bienvenidas. Por favor, crear un fork y pull request para enviar cualquier agregado o corrección.
+Las contribuciones y mejoras a los ejercicios son bienvenidas. Por favor, crear un pull request para enviar cualquier agregado o corrección.
